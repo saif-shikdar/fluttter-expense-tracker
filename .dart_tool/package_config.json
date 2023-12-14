@@ -68,6 +68,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/intl-0.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
@@ -176,7 +182,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-11-28T16:01:56.024825Z",
+  "generated": "2023-12-14T15:24:04.199943Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }
