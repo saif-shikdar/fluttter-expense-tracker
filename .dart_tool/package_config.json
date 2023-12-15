@@ -57,9 +57,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/flutter_lints-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
@@ -75,7 +75,7 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/uuid-4.2.1",
+      "rootUri": "file:///Users/saifshikdar/.pub-cache/hosted/pub.dev/uuid-4.2.2",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -182,7 +182,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-12-14T15:24:04.199943Z",
+  "generated": "2023-12-15T16:06:59.762144Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }
